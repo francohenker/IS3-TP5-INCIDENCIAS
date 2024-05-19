@@ -13,9 +13,11 @@ Tomando en cuenta un repositorio Git en GitHub generado por Uds, configurar la h
 - Para finalizar especificar la URL del repositorio remoto para revisión por parte de la cátedra.
 
 ### Resolucion
-1.
-2.
-3.
-4.
+1. <br><image src="./img/1Franco.png"> <image src="./img/11Franco.png">
+
+2. 
+3. <br> <image src="./img/23Franco.png">
+
+4. 
 5.
-6. [Aqui se encuentra el link del repositorio](https://github.com/francohenker/IS3-TP5-INCIDENCIAS)
+6. [Click aqui](https://github.com/francohenker/IS3-TP5-INCIDENCIAS) para dirigirse al repositorio
