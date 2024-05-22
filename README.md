@@ -14,10 +14,13 @@ Tomando en cuenta un repositorio Git en GitHub generado por Uds, configurar la h
 
 ### Resolucion
 1. <br><image src="./img/1Franco.png"> <image src="./img/11Franco.png">
-
+<br><image src="./img/Luis1.png"> <br><image src="./img/Luis12.png">
 2. Se documenta junto con el punto 3 a continuacion.
 3. <br> <image src="./img/23Franco.png">
+<br><image src="./img/Luis21.png">
 
 4. Se documenta junto con el punto 5 a continuacion.
-5. <br> <image src="./img/41Franco.png"> <br> <image src="./img/42Franco.png">
+5. <br> <image src="./img/41Franco.png"> <br> <image src="./img/42Franco.png"> 
+<br><image src="./img/Luis4.png">
+
 6. [Click aqui](https://github.com/francohenker/IS3-TP5-INCIDENCIAS) para dirigirse al repositorio
